@@ -12,21 +12,29 @@
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
+
 <br />
 
-
-A Full Stack JavaScript Developer 🚀 from India.
+<p>
+A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+<br/>  
+Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
+<br/>
+Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+</p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii
+- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
 - 🌱 I’m currently learning React-Native and Animation
 - 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜)
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?)
 
@@ -36,12 +44,12 @@ A Full Stack JavaScript Developer 🚀 from India.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Express.js](https://img.shields.io/badge/-Express.black-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Socket.io](https://img.shields.io/badge/-Socket.black-black?style=flat-square&logo=socket.io)
 ![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Next.js](https://img.shields.io/badge/-Next.black-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
